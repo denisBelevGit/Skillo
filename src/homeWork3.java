@@ -33,7 +33,7 @@ public class homeWork3 {
 //        //exercise #6
 //        findInList();
 //        //exercise #7
-          reverseList();
+          //reverseList();
 
 
     }
