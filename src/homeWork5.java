@@ -3,19 +3,19 @@ import java.util.*;
 
 public class homeWork5 {
     public static void main(String[] args) {
-//        //Ex1
-//        double res = minNumMeth(13.74 , 65.33 , 75.2);
-//        System.out.println(res);
-//         //Ex2
-//        System.out.println(avrg(3, 5, 6));
-//         //Ex3
-//        middChar("Animal");
-//         //Ex4
-//        System.out.println(countWords("Spooky Halloween everyone, Booo & bla blah!"));
-//         //Ex5
-//        isEven();
-//         //Ex6
-//        palindrome();
+        //Ex1
+        double res = minNumMeth(13.74 , 65.33 , 75.2);
+        System.out.println(res);
+         //Ex2
+        System.out.println(avrg(3, 5, 6));
+         //Ex3
+        middChar("Animal");
+         //Ex4
+        System.out.println(countWords("Spooky Halloween everyone, Booo & bla blah!"));
+         //Ex5
+        isEven();
+         //Ex6
+        palindrome();
     }
 
     public static double minNumMeth(double num1, double num2, double num3) {
